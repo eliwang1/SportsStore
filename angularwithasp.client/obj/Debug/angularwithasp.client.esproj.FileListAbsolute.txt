@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\AngularWithASP\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\AngularWithASP\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+F:\pro\AngularWithASP\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AngularWithASPASUS\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+C:\Lidac\AngularWithASPASUS\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+F:\backup\AngularWithASPASUS\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
+E:\backup\AngularWithASPASUS\angularwithasp.client\obj\Debug\angularwithasp.client.esproj.CoreCompileInputs.cache
